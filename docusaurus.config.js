@@ -14,12 +14,12 @@ const config = {
   url: 'https://langzongz.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/EchoMC-Wiki/',
+  baseUrl: '/EchoMC-Wiki-Legacy/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'langzongz', // Usually your GitHub org/user name.
-  projectName: 'EchoMC-Wiki', // Usually your repo name.
+  projectName: 'EchoMC-Wiki-Legacy', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/LangZongz/EchoMC-Wiki/tree/main'
+            'https://github.com/LangZongz/EchoMC-Wiki-Legacy/tree/main'
         },
         blog: false,
         theme: {
