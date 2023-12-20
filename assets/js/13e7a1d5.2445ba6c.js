@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkEchoMC_Wiki_Legacy=self.webpackChunkEchoMC_Wiki_Legacy||[]).push([[704],{2776:e=>{e.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
